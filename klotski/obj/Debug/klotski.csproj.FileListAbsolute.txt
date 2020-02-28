@@ -1,0 +1,7 @@
+C:\Users\Trouble_Maker\Source\Repos\klotski\klotski\bin\Debug\klotski.exe.config
+C:\Users\Trouble_Maker\Source\Repos\klotski\klotski\bin\Debug\klotski.exe
+C:\Users\Trouble_Maker\Source\Repos\klotski\klotski\bin\Debug\klotski.pdb
+C:\Users\Trouble_Maker\Source\Repos\klotski\klotski\obj\Debug\klotski.csprojAssemblyReference.cache
+C:\Users\Trouble_Maker\Source\Repos\klotski\klotski\obj\Debug\klotski.csproj.CoreCompileInputs.cache
+C:\Users\Trouble_Maker\Source\Repos\klotski\klotski\obj\Debug\klotski.exe
+C:\Users\Trouble_Maker\Source\Repos\klotski\klotski\obj\Debug\klotski.pdb
