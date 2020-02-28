@@ -4,6 +4,7 @@
 # Manual:
 When running the game the number of rows and columns is required to be entered by the user
 The game contains:
+
 1- The option of playing from the user
 The current patch is printed and the cursor position is indicated within the patch with []
 The cursor is moved with the buttons Y-J-H-G
